@@ -2,7 +2,6 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service as ChromeService
 from webdriver_manager.chrome import ChromeDriverManager
-from src.pages.homepage import Homepage
 from src.pages.sign_up_page import SignUpPage
 
 def test_login():
