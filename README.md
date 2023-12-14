@@ -6,12 +6,12 @@ Goal: Better understand selenium, selenium tools and python utilizing the pychar
 
 Steps to get started and run test for windows:
 
-Install Python from || https://www.python.org/
-Install PyCharm IDE || https://www.jetbrains.com/pycharm/
-Clone this repository over to your PycharmProjects or another local folder
-You will need to create a venv or virtual environment file for this project.
-Open project in pycharm and start a terminal.
-In terminal, run || pip install selenium
-pytest branch uses pytest and pagefactory. you can run a pip for both of these tools. pytest uses command || pytest -v || to run tests
+Install Python from || https://www.python.org/<br>
+Install PyCharm IDE || https://www.jetbrains.com/pycharm/<br>
+Clone this repository over to your PycharmProjects or another local folder<br>
+You will need to create a venv or virtual environment file for this project.<br>
+Open project in pycharm and start a terminal.<br>
+In terminal, run || pip install selenium<br>
+pytest branch uses pytest and pagefactory. you can run a pip for both of these tools. pytest uses command || pytest -v || to run tests<br>
 
 Steps for mac users soon to come
