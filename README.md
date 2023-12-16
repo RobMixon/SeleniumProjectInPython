@@ -1,5 +1,3 @@
-Warning: this project has multiple branches utilizing different tools. <br>
-
 What is this: Personal Selenium project to further my understanding of both Selenium and Python.<br>
 If you are reading this,  I hope that my code gives clear examples on ways to implement or <br>
 improve Selenium in Python into your own projects. If you have any suggestions or need help, <br>
