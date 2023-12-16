@@ -1,9 +1,10 @@
-What is this: Personal Selenium project to further my understanding of both Selenium and Python.<br>
+Personal Selenium project to further my understanding of both Selenium and Python.<br>
 If you are reading this,  I hope that my code gives clear examples on ways to implement or <br>
 improve Selenium in Python into your own projects. If you have any suggestions or need help, <br>
 please feel free to reach out at MixonRobertH@gmail.com  <br>
  <br>
-Goal: Better understand selenium, selenium tools and python utilizing the pycharm IDE.  <br>
+My goal by doing this project is to better understand selenium, selenium tools and python<br>
+utilizing the pycharm IDE.  <br>
  <br>
 Steps to get started and run test for windows:<br>
  <br>
